@@ -1,0 +1,4 @@
+informathic class hmpi
+1. Git & GitHub
+2. Desain
+3. PHP
