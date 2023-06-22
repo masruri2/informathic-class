@@ -1,4 +1,5 @@
 informathic class hmpi
 - Desain
+  - figma
 - PHP
 - python
